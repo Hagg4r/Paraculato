@@ -47,6 +47,8 @@ def animate_earth():
      """,
     ]
 
+    print("by haggar 😘")
+
     # Mostra l'animazione per 10 secondi
     start_time = time.time()
     while time.time() - start_time < 10:
